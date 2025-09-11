@@ -1,8 +1,13 @@
-# 👋 Hi there, I'm Bellissimo AI
+# 👋 Hi there, I'm Bellissimo AI  
 
-🎓 Undergraduate student majoring in **Artificial Intelligence** at **Sungkyunkwan University (SKKU)**  
-🔬 Passionate about **NLP, multimodal LLMs, and model optimization**  
-📈 Interested in **knowledge distillation and LLM hallucination**
+## 🎓 Education  
+- Undergraduate student  
+- Major in **Artificial Intelligence** at **Sungkyunkwan University (SKKU)**  
+
+## 🔬 Research Interests  
+- **Natural Language Processing (NLP)**  
+- **Multimodal Large Language Models (LLMs)**  
+- **Model Optimization (e.g., Knowledge Distillation)**  
 
 ---
 
