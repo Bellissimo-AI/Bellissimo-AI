@@ -26,4 +26,8 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/junhyung-kim-b560b8384/))
+<p align="left">
+  <a href="https://www.linkedin.com/in/junhyung-kim-b560b8384/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
