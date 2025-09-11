@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bellissimo AI  
+# 👋 Hi there, I'm Junhyung Kim
 
 ## 🎓 Education  
 - Undergraduate student  
