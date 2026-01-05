@@ -7,7 +7,7 @@
 ## 🔬 Research Interests  
 - **Natural Language Processing (NLP)**  
 - **Multimodal Large Language Models (MLLMs)**  
-- **Model Optimization (e.g., Knowledge Distillation)**  
+- **Mutimodal Fusion**  
 
 ---
 
