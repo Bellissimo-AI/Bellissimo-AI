@@ -4,8 +4,7 @@
 - Undergraduate student  
 - Major in **Artificial Intelligence** at **Sungkyunkwan University (SKKU)**  
 
-## 🔬 Research Interests  
-- **Natural Language Processing (NLP)**  
+## 🔬 Research Interests
 - **Multimodal Large Language Models (MLLMs)**  
 - **Mutimodal Fusion**  
 
