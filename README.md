@@ -5,7 +5,7 @@
 - Major in **Artificial Intelligence** at **Sungkyunkwan University (SKKU)**  
 
 ## 🔬 Research Interests
-- **Large Language Models (LLMs)**  
+- **Video Understanding**  
 - **Mutimodal Fusion**  
 
 ---
